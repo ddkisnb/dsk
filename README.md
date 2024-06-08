@@ -99,6 +99,7 @@ GPL2.0,3.0.Apahce2.0,Mit，这些许可证，给使用者最大使用权限以�
 
 
 
+
 ##代码更新的依赖关系被破坏
 **本地内容要比云端新，完成更新替换，但是如果直接修改云端内容没导致本地内容无法再次提交**
 * 先拉取git pull 云端内容 与本地内容合并或操作，而再次推即可
@@ -116,7 +117,8 @@ GPL2.0,3.0.Apahce2.0,Mit，这些许可证，给使用者最大使用权限以�
 
 ##Markdown
 github可以编写readme,文本选择语言
-
+[![20240608162349.png](https://i.postimg.cc/NM5H3tqn/20240608162349.png)](https://postimg.cc/62xqZDQV)
+[![20240608162353.png](https://i.postimg.cc/rFpv7YKr/20240608162353.png)](https://postimg.cc/mh0XHj3L)
 
 
 
